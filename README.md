@@ -47,9 +47,20 @@ Design minimum 3 related tables with foreign keys.
 
 ### Combined Table Creation Image
 
+![WhatsApp Image 2025-09-29 at 22 26 46_5ec25162](https://github.com/user-attachments/assets/b1f4ada0-b004-4c37-b9bc-63fc8ed95bec)
+
+### Data inserting in customers
+
+![WhatsApp Image 2025-09-29 at 21 39 27_7b906753](https://github.com/user-attachments/assets/0eb7d5c9-cee0-4462-af14-cf45034cda91)
+
+### Data inserting in products
+
+![WhatsApp Image 2025-09-29 at 21 39 28_b4594a93](https://github.com/user-attachments/assets/04535e01-37e2-475d-a5d2-e6ef476fdac5)
 
 
+### Data inserting in transactions
 
+![WhatsApp Image 2025-09-29 at 21 39 28_c2b06434](https://github.com/user-attachments/assets/2590c057-e96a-474c-84c6-a5859ce86dd9)
 
 
 ### Window Functions Implementation
