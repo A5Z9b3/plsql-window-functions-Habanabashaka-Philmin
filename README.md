@@ -22,7 +22,7 @@ The company sells table silverware and kitchen stuff across regions in Rwanda, b
 The analysis will deliver insights like top products per region, running sales totals with growth percentages, and customer segments in quartiles to support better inventory decisions and marketing for family households.
 
 
-## Step 3: Database Schema
+## Database Schema
 
 | Table       | Purpose          | Key Columns                              | Example Row                          |
 |-------------|------------------|------------------------------------------|--------------------------------------|
