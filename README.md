@@ -23,7 +23,6 @@ The analysis will deliver insights like top products per region, running sales t
 
 
 ## Step 3: Database Schema
-Design minimum 3 related tables with foreign keys.
 
 | Table       | Purpose          | Key Columns                              | Example Row                          |
 |-------------|------------------|------------------------------------------|--------------------------------------|
