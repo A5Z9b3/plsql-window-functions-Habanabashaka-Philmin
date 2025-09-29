@@ -113,7 +113,8 @@ Prioritize marketing to quartile 1 customers with discounts on top products like
 - SQL Window Functions (from Lecture - 01 Introduction to SQL Command Basics (Recap).pdf)
 - Oracle PL/SQL Documentation: Window Functions (adapted from course outline in Lecture - 00 Course Introduction.pdf)
 
-### All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
+### “All sources were properly cited. Implementations and analysis represent original work. No AI
+generated content was copied without attribution or adaptation.
 
 
 
