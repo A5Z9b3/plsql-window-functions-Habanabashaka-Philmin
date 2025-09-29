@@ -75,17 +75,18 @@ Design minimum 3 related tables with foreign keys.
 2. Aggregate: SUM(), AVG(), MIN(), MAX() with frame comparisons (ROWS vs RANGE)
 
 
+![WhatsApp Image 2025-09-29 at 21 39 32_fbc99960](https://github.com/user-attachments/assets/44a00141-a598-4414-93f6-50f6b432b5bb)
 
 
 
 3. Navigation: LAG(), LEAD(), growth % calculations
-4. 
+
 ![WhatsApp Image 2025-09-29 at 21 39 27_f2116755](https://github.com/user-attachments/assets/f18e2070-a73a-4e9c-9ee6-bd03813355bf)
 
 
 
 
-5. Distribution: NTILE(4), CUME_DIST()
+4. Distribution: NTILE(4), CUME_DIST()
 ![WhatsApp Image 2025-09-29 at 21 39 28_858b33a6](https://github.com/user-attachments/assets/d9ce5ade-4f22-4d6c-a244-ff4fffe94730)
 
 
