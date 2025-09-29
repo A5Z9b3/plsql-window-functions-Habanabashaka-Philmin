@@ -31,7 +31,7 @@ Design minimum 3 related tables with foreign keys.
 | products   | Product catalog | product_id (PK), name, category         | 2001, Silver Fork Set, Silverware   |
 | transactions | Sales records  | transaction_id (PK), customer_id (FK), product_id (FK), sale_date, amount | 3001, 1001, 2001, 2024-01-15, 15000 |
 
-### ER Diagram (Text-Based Representation)
+### ER Diagram 
 
 
 
@@ -63,11 +63,12 @@ Design minimum 3 related tables with foreign keys.
 ![WhatsApp Image 2025-09-29 at 21 39 28_c2b06434](https://github.com/user-attachments/assets/2590c057-e96a-474c-84c6-a5859ce86dd9)
 
 
-### Window Functions Implementation
+## Window Functions Implementation
 
 1. Ranking: ROW_NUMBER(), RANK(), DENSE_RANK(), PERCENT_RANK()
 
 
+![WhatsApp Image 2025-09-29 at 21 39 27_457cae98](https://github.com/user-attachments/assets/b30c06b1-e142-46c9-9a23-05be96eb60c4)
 
 
 
@@ -78,16 +79,19 @@ Design minimum 3 related tables with foreign keys.
 
 
 3. Navigation: LAG(), LEAD(), growth % calculations
+4. 
+![WhatsApp Image 2025-09-29 at 21 39 27_f2116755](https://github.com/user-attachments/assets/f18e2070-a73a-4e9c-9ee6-bd03813355bf)
 
 
 
 
-4. Distribution: NTILE(4), CUME_DIST()
+5. Distribution: NTILE(4), CUME_DIST()
+![WhatsApp Image 2025-09-29 at 21 39 28_858b33a6](https://github.com/user-attachments/assets/d9ce5ade-4f22-4d6c-a244-ff4fffe94730)
 
 
 
 
-### Results Analysis
+## Results Analysis
 1. Descriptive – What happened?
 Sales peaked in May at 27,000 RWF with Silver Fork Set as the top product in Kigali and Musanze. Trends show overall growth from January to May, then a dip in June. Outliers include high individual transactions in Musanze.
 2. Diagnostic – Why?
