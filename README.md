@@ -102,18 +102,18 @@ Prioritize marketing to quartile 1 customers with discounts on top products like
 
 ### References
 
-YouTube Tutorial: Git Tutorial for Beginners: Learn Git in 1 Hour (from Lecture - 02 Introduction to GitHub.pdf)
-GitHub and Git Tutorial for Beginners (from Lecture - 02 Introduction to GitHub.pdf)
-Introduction to GitHub (from Lecture - 02 Introduction to GitHub.pdf)
-Intro to GitHub for version control (from Lecture - 02 Introduction to GitHub.pdf)
-How to Design an Attractive GitHub Profile Readme (from Lecture - 02 Introduction to GitHub.pdf)
-YouTube Tutorial: How to create Professional Github Readme Profile (Step By Step) (from Lecture - 02 Introduction to GitHub.pdf)
-Getting Started with R Markdown (from Lecture - 02 Introduction to GitHub.pdf)
-YouTube Tutorial: Git Merge Conflicts (from Lecture - 02 Introduction to GitHub.pdf)
-SQL Window Functions (from Lecture - 01 Introduction to SQL Command Basics (Recap).pdf)
-Oracle PL/SQL Documentation: Window Functions (adapted from course outline in Lecture - 00 Course Introduction.pdf)
+- YouTube Tutorial: Git Tutorial for Beginners: Learn Git in 1 Hour (from Lecture02 Introduction to GitHub.pdf)
+- GitHub and Git Tutorial for Beginners (from Lecture - 02 Introduction to GitHub.pdf)
+- Introduction to GitHub (from Lecture - 02 Introduction to GitHub.pdf)
+- Intro to GitHub for version control (from Lecture - 02 Introduction to GitHub.pdf)
+- How to Design an Attractive GitHub Profile Readme (from Lecture - 02 Introduction to GitHub.pdf)
+- YouTube Tutorial: How to create Professional Github Readme Profile (Step By Step) (from Lecture - 02 Introduction to GitHub.pdf)
+- Getting Started with R Markdown (from Lecture - 02 Introduction to GitHub.pdf)
+- YouTube Tutorial: Git Merge Conflicts (from Lecture - 02 Introduction to GitHub.pdf)
+- SQL Window Functions (from Lecture - 01 Introduction to SQL Command Basics (Recap).pdf)
+- Oracle PL/SQL Documentation: Window Functions (adapted from course outline in Lecture - 00 Course Introduction.pdf)
 
-“All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.”
+### All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
 
 
 
