@@ -32,3 +32,78 @@ Design minimum 3 related tables with foreign keys.
 | transactions | Sales records  | transaction_id (PK), customer_id (FK), product_id (FK), sale_date, amount | 3001, 1001, 2001, 2024-01-15, 15000 |
 
 ### ER Diagram (Text-Based Representation)
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Combined Table Creation Image
+
+
+
+
+
+
+### Window Functions Implementation
+
+1. Ranking: ROW_NUMBER(), RANK(), DENSE_RANK(), PERCENT_RANK()
+
+
+
+
+
+2. Aggregate: SUM(), AVG(), MIN(), MAX() with frame comparisons (ROWS vs RANGE)
+
+
+
+
+
+3. Navigation: LAG(), LEAD(), growth % calculations
+
+
+
+
+4. Distribution: NTILE(4), CUME_DIST()
+
+
+
+
+### Results Analysis
+1. Descriptive – What happened?
+Sales peaked in May at 27,000 RWF with Silver Fork Set as the top product in Kigali and Musanze. Trends show overall growth from January to May, then a dip in June. Outliers include high individual transactions in Musanze.
+2. Diagnostic – Why?
+The growth in April-May could be due to seasonal demand for kitchenware during family events in Rwanda. Comparisons show Kigali customers spend more frequently, possibly due to urban market access, while lower segments in Huye indicate competition or economic factors.
+3. Prescriptive – What next?
+Prioritize marketing to quartile 1 customers with discounts on top products like Silver Fork Set. Stock more in high-growth regions like Kigali and monitor 3-month averages to predict inventory needs. Implement targeted campaigns for lower quartiles to boost frequency.
+
+### References
+
+YouTube Tutorial: Git Tutorial for Beginners: Learn Git in 1 Hour (from Lecture - 02 Introduction to GitHub.pdf)
+GitHub and Git Tutorial for Beginners (from Lecture - 02 Introduction to GitHub.pdf)
+Introduction to GitHub (from Lecture - 02 Introduction to GitHub.pdf)
+Intro to GitHub for version control (from Lecture - 02 Introduction to GitHub.pdf)
+How to Design an Attractive GitHub Profile Readme (from Lecture - 02 Introduction to GitHub.pdf)
+YouTube Tutorial: How to create Professional Github Readme Profile (Step By Step) (from Lecture - 02 Introduction to GitHub.pdf)
+Getting Started with R Markdown (from Lecture - 02 Introduction to GitHub.pdf)
+YouTube Tutorial: Git Merge Conflicts (from Lecture - 02 Introduction to GitHub.pdf)
+SQL Window Functions (from Lecture - 01 Introduction to SQL Command Basics (Recap).pdf)
+Oracle PL/SQL Documentation: Window Functions (adapted from course outline in Lecture - 00 Course Introduction.pdf)
+
+“All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.”
+
+
+
+
+
+
+
+
+
