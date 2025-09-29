@@ -48,6 +48,9 @@ The analysis will deliver insights like top products per region, running sales t
 ### Combined Table Creation Image
 
 ![WhatsApp Image 2025-09-29 at 22 26 46_5ec25162](https://github.com/user-attachments/assets/b1f4ada0-b004-4c37-b9bc-63fc8ed95bec)
+![WhatsApp Image 2025-09-29 at 22 31 33_0bd71bc4](https://github.com/user-attachments/assets/7c6a1cf9-4f6d-47a3-b3cb-8d790ea6afa7)
+![WhatsApp Image 2025-09-29 at 22 31 33_95e1938f](https://github.com/user-attachments/assets/fd1f7e8c-1095-4eac-b067-a92c26092a49)
+![WhatsApp Image 2025-09-29 at 22 31 34_72a3df97](https://github.com/user-attachments/assets/fc3c87a3-50bf-4268-a61e-686e5b1b9d2c)
 
 ### Data inserting in customers
 
