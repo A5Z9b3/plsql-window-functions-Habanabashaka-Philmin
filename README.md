@@ -62,6 +62,8 @@ The analysis will deliver insights like top products per region, running sales t
 
 ![WhatsApp Image 2025-09-29 at 21 39 27_7b906753](https://github.com/user-attachments/assets/0eb7d5c9-cee0-4462-af14-cf45034cda91)
 
+<img width="725" height="349" alt="insert data to customer" src="https://github.com/user-attachments/assets/ddd93aba-fb8f-4dc8-8a84-8e2626a67627" />
+
 ### Data inserting in products
 
 ![WhatsApp Image 2025-09-29 at 21 39 28_b4594a93](https://github.com/user-attachments/assets/04535e01-37e2-475d-a5d2-e6ef476fdac5)
