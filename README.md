@@ -34,9 +34,12 @@ The analysis will deliver insights like top products per region, running sales t
 
 <img width="629" height="335" alt="transaction model" src="https://github.com/user-attachments/assets/9515cd90-089c-4244-8090-50fbee1d5c83" />
 
+<img width="629" height="335" alt="customer model" src="https://github.com/user-attachments/assets/892d44b0-ebd1-4ab6-a742-947b2b15c19f" />
+
+<img width="628" height="337" alt="product model" src="https://github.com/user-attachments/assets/f018735c-90c7-4c18-98cc-6265c4b2ae15" />
 
 
-
+<img width="959" height="476" alt="transctions erd" src="https://github.com/user-attachments/assets/1ac55cce-1379-4087-9e76-4ed9753e826c" />
 
 
 
