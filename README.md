@@ -70,6 +70,7 @@ The analysis will deliver insights like top products per region, running sales t
 ### Data inserting in transactions
 
 ![WhatsApp Image 2025-09-29 at 21 39 28_c2b06434](https://github.com/user-attachments/assets/2590c057-e96a-474c-84c6-a5859ce86dd9)
+![Uploading transactions.png…]()
 
 
 ## Window Functions Implementation
