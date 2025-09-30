@@ -42,7 +42,7 @@ The analysis will deliver insights like top products per region, running sales t
 <img width="959" height="476" alt="transctions erd" src="https://github.com/user-attachments/assets/1ac55cce-1379-4087-9e76-4ed9753e826c" />
 
 <img width="947" height="441" alt="customer erd" src="https://github.com/user-attachments/assets/4f6b9a1e-1fa0-47ae-8c99-88ac641bc8e4" />
-
+<img width="947" height="441" alt="customer erd" src="https://github.com/user-attachments/assets/8e3cfae2-45e2-47b5-a2e3-98c0addbaea4" />
 
 
 ### user Creating User
@@ -58,7 +58,7 @@ The analysis will deliver insights like top products per region, running sales t
 ![WhatsApp Image 2025-09-29 at 22 31 33_0bd71bc4](https://github.com/user-attachments/assets/7c6a1cf9-4f6d-47a3-b3cb-8d790ea6afa7)
 ![WhatsApp Image 2025-09-29 at 22 31 33_95e1938f](https://github.com/user-attachments/assets/fd1f7e8c-1095-4eac-b067-a92c26092a49)
 ![WhatsApp Image 2025-09-29 at 22 31 34_72a3df97](https://github.com/user-attachments/assets/fc3c87a3-50bf-4268-a61e-686e5b1b9d2c)
-<img width="947" height="441" alt="customer erd" src="https://github.com/user-attachments/assets/8e3cfae2-45e2-47b5-a2e3-98c0addbaea4" />
+
 
 ### Data inserting in customers
 
