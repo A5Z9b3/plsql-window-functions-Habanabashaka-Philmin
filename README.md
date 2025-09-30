@@ -41,6 +41,8 @@ The analysis will deliver insights like top products per region, running sales t
 
 <img width="959" height="476" alt="transctions erd" src="https://github.com/user-attachments/assets/1ac55cce-1379-4087-9e76-4ed9753e826c" />
 
+<img width="947" height="441" alt="customer erd" src="https://github.com/user-attachments/assets/4f6b9a1e-1fa0-47ae-8c99-88ac641bc8e4" />
+
 
 
 ### user Creating User
