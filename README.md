@@ -40,8 +40,9 @@ The analysis will deliver insights like top products per region, running sales t
 
 
 
+### user Creating User
 
-
+<img width="668" height="373" alt="create user" src="https://github.com/user-attachments/assets/65808590-8670-4635-b181-dca9b370be51" />
 
 
 
