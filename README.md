@@ -32,7 +32,8 @@ The analysis will deliver insights like top products per region, running sales t
 
 ### ER Diagram 
 
-<img width="564" height="490" alt="Copy of ERD" src="https://github.com/user-attachments/assets/509aa4aa-64fa-40b2-b5ac-775ef0f2832d" />
+<img width="629" height="335" alt="transaction model" src="https://github.com/user-attachments/assets/9515cd90-089c-4244-8090-50fbee1d5c83" />
+
 
 
 
