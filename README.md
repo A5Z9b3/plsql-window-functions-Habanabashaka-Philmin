@@ -43,6 +43,7 @@ The analysis will deliver insights like top products per region, running sales t
 
 <img width="947" height="441" alt="customer erd" src="https://github.com/user-attachments/assets/4f6b9a1e-1fa0-47ae-8c99-88ac641bc8e4" />
 <img width="947" height="441" alt="customer erd" src="https://github.com/user-attachments/assets/8e3cfae2-45e2-47b5-a2e3-98c0addbaea4" />
+<img width="957" height="412" alt="product" src="https://github.com/user-attachments/assets/8edc8096-d032-4641-853e-d9e266b379a8" />
 
 
 ### user Creating User
