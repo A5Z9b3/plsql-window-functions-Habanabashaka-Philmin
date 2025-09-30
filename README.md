@@ -65,6 +65,7 @@ The analysis will deliver insights like top products per region, running sales t
 ### Data inserting in products
 
 ![WhatsApp Image 2025-09-29 at 21 39 28_b4594a93](https://github.com/user-attachments/assets/04535e01-37e2-475d-a5d2-e6ef476fdac5)
+<img width="683" height="319" alt="product insert data" src="https://github.com/user-attachments/assets/5f679371-2f61-410c-ad9c-e0b2a51ba1b9" />
 
 
 ### Data inserting in transactions
